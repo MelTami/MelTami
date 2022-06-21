@@ -1,0 +1,1 @@
+https://badge42.vercel.app/
