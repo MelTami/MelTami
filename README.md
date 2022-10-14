@@ -22,11 +22,11 @@
 
 <div align="center">
 
-[![Libft](https://github.com/riceset/riceset/blob/main/42_badges/libftm.png)](https://github.com/MelTami/Libft)
-[![GNL](https://github.com/riceset/riceset/blob/main/42_badges/get_next_linem.png)](https://github.com/MelTami/get_next_line)
-[![ft_printf](https://github.com/riceset/riceset/blob/main/42_badges/ft_printfe.png)](https://github.com/MelTami/ft_printf)
-[![B2B](https://github.com/riceset/riceset/blob/main/42_badges/born2beroote.png)](#)
-[![fract-ol](https://github.com/riceset/riceset/blob/main/42_badges/fract-ole.png)](https://github.com/riceset/fract-ol)
-[![Volunteer]()](#)
+[![Libft](https://github.com/MelTami/MelTami/blob/main/42badges/libft.png)](https://github.com/MelTami/Libft)
+[![GNL](https://github.com/MelTami/MelTami/blob/main/42badges/gnl.png)](https://github.com/MelTami/get_next_line)
+[![ft_printf](https://github.com/MelTami/MelTami/blob/main/42badges/ft_printf.png)](https://github.com/MelTami/ft_printf)
+[![B2B](https://github.com/MelTami/MelTami/blob/main/42badges/born2beroot.png)](https://github.com/MelTami/Born2BeRoot)
+[![fract-ol](https://github.com/MelTami/MelTami/blob/main/42badges/fract-oln.png)](https://github.com/MelTami/Fract-ol)
+[![Volunteer](https://github.com/MelTami/MelTami/blob/main/42badges/volunteer.png)](#)
 
 </div>
