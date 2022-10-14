@@ -1,3 +1,4 @@
+# Hi! I'm Melissa, I'm a student at school [42SP](https://www.42sp.org.br/) and at [UFABC](https://www.ufabc.edu.br)
 <div align="center">
   <a href="https://github.com/MelTami">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MelTami&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -15,4 +16,17 @@
   <a href="https://instagram.com/melsinha_1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/melissa-vavassori/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:melissa.vavassori@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
+
+## 🚀 42 Projects and Badges
+
+<div align="center">
+
+[![Libft](https://github.com/riceset/riceset/blob/main/42_badges/libftm.png)](https://github.com/MelTami/Libft)
+[![GNL](https://github.com/riceset/riceset/blob/main/42_badges/get_next_linem.png)](https://github.com/MelTami/get_next_line)
+[![ft_printf](https://github.com/riceset/riceset/blob/main/42_badges/ft_printfe.png)](https://github.com/MelTami/ft_printf)
+[![B2B](https://github.com/riceset/riceset/blob/main/42_badges/born2beroote.png)](#)
+[![fract-ol](https://github.com/riceset/riceset/blob/main/42_badges/fract-ole.png)](https://github.com/riceset/fract-ol)
+[![Volunteer]()](#)
+
 </div>
