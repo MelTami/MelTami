@@ -1,4 +1,9 @@
-# Hi! I'm Melissa, I'm a student at school [42SP](https://www.42sp.org.br/) and at [UFABC](https://www.ufabc.edu.br)
+# Hi! 
+- I'm Melissa
+- I'm a student at school [42SP](https://www.42sp.org.br/) and at [UFABC](https://www.ufabc.edu.br)
+<h1> Languages </h1>
+- Portuguese 🇧🇷 (native)
+- English 🇺🇸
 <div align="center">
   <a href="https://github.com/MelTami">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=MelTami&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
