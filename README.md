@@ -1,5 +1,5 @@
 # Hi! 
-- I'm Melissa
+- I'm Melissa or Mel or Tami
 - I'm a student at school [42SP](https://www.42sp.org.br/) and at [UFABC](https://www.ufabc.edu.br)
 # Languages 
 - Portuguese 🇧🇷 (native)
