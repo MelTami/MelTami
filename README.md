@@ -36,7 +36,7 @@
 [![ft_printf](https://github.com/MelTami/MelTami/blob/main/42badges/ft_printf.png)](https://github.com/MelTami/ft_printf)
 [![B2B](https://github.com/MelTami/MelTami/blob/main/42badges/born2beroot.png)](https://github.com/MelTami/Born2BeRoot)
 [![fract-ol](https://github.com/MelTami/MelTami/blob/main/42badges/fract-olm.png)](https://github.com/MelTami/Fract-ol)
-[![minitalk](https://github.com/MelTami/MelTami/blob/main/42badges/minitalkn.png)](https://github.com/MelTami/Minitalk)
+[![minitalk](https://github.com/MelTami/MelTami/blob/main/42badges/minitalkm.png)](https://github.com/MelTami/Minitalk)
 [![Volunteer](https://github.com/MelTami/MelTami/blob/main/42badges/volunteer.png)](#)
 
 </div>
