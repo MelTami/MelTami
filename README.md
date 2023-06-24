@@ -38,6 +38,8 @@
 [![minitalk](https://github.com/MelTami/MelTami/blob/main/42badges/minitalkm.png)](https://github.com/MelTami/Minitalk)
 [![push_swap](https://github.com/MelTami/MelTami/blob/main/42badges/push_swape.png)](https://github.com/MelTami/push_swap)
 [![minishell](https://github.com/MelTami/MelTami/blob/main/42badges/minishelle.png)](https://github.com/MelTami/minishell)
+[![philosophers](https://github.com/MelTami/MelTami/blob/main/42badges/philosopherse.png)](https://github.com/MelTami/philosophers)
 [![Volunteer](https://github.com/MelTami/MelTami/blob/main/42badges/volunteer.png)](#)
+
 
 </div>
