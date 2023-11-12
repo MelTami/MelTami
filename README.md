@@ -39,6 +39,8 @@
 [![push_swap](https://github.com/MelTami/MelTami/blob/main/42badges/push_swape.png)](https://github.com/MelTami/push_swap)
 [![minishell](https://github.com/MelTami/MelTami/blob/main/42badges/minishelle.png)](https://github.com/MelTami/minishell)
 [![philosophers](https://github.com/MelTami/MelTami/blob/main/42badges/philosopherse.png)](https://github.com/MelTami/philosophers)
+[![netpractice](https://github.com/MelTami/MelTami/blob/main/42badges/netpracticee.png)](https://github.com/MelTami/)
+[![cub3d](https://github.com/MelTami/MelTami/blob/main/42badges/cub3de.png)](https://github.com/MelTami/cub3D)
 [![Volunteer](https://github.com/MelTami/MelTami/blob/main/42badges/volunteer.png)](#)
 
 
