@@ -43,6 +43,7 @@
 [![netpractice](https://github.com/MelTami/MelTami/blob/main/42badges/netpracticee.png)](https://github.com/MelTami/)
 [![cub3d](https://github.com/MelTami/MelTami/blob/main/42badges/cub3de.png)](https://github.com/MelTami/cub3D)
 [![Volunteer](https://github.com/MelTami/MelTami/blob/main/42badges/volunteer.png)](#)
+[![42Certificate](https://github.com/MelTami/MelTami/blob/main/42badges/42-cursus-junior-developer-level-10.png)](#)
 
 
 </div>
