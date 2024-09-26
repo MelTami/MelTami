@@ -1,7 +1,8 @@
 # Hi! 
 - I'm Melissa or Mel or Tami
-- I'm a student at school [42SP](https://www.42sp.org.br/) and at [UFABC](https://www.ufabc.edu.br)
+- I'm a student at [UFABC](https://www.ufabc.edu.br)
 - Currently working at [Matrix](https://www.matrixenergia.com/)
+- Graduated at school [42SP](https://www.42sp.org.br/)
 # Languages 
 - Portuguese 🇧🇷 (native)
 - English 🇺🇸
